@@ -1,6 +1,6 @@
 {
-  "deadline": "2026-11-15T17:31:00+00:00",
-  "declared_at": "2026-11-15T17:27:54.378059+00:00",
+  "deadline": "2026-11-15T17:34:00+00:00",
+  "declared_at": "2026-11-15T17:30:31.563156+00:00",
   "lab": {
     "id": 1459057543,
     "ref": "refs/heads/trunk",
@@ -11,9 +11,9 @@
     "id": 1450406435,
     "ref": "refs/heads/trunk",
     "repository": "kburson/aitm",
-    "sha": "e9b92172aee21eaab728e1a313d94f0bea38279b",
-    "tree": "eaecc1b6042f5477d2830d26117c946e97e33e01"
+    "sha": "9de9dbbec4053b95cfab5e005cd876c667f71e10",
+    "tree": "d551e285f8c15c98ec7285bbf43f78c59d345756"
   },
   "schema": "aitm.rehearsal-scenario/v1",
-  "slot": "2026-11-15T17:29:00+00:00"
+  "slot": "2026-11-15T17:32:00+00:00"
 }
